@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Aplikasi Sepak Bola</string>
+
+    <string name="title_matches">Matches</string>
+    <string name="title_teams">Daftar Team</string>
+    <string name="title_favorites">Favorite</string>
+
+    <string name="title_next">Next</string>
+    <string name="title_last">Last</string>
+
+    <string name="title_vs">vs</string>
+
+    <string name="title_search">Cari</string>
+
+    <string name="title_overview">Overview</string>
+    <string name="title_players">Players</string>
+
+    <string name="title_team_logo">Logo Team</string>
+    <string name="title_team_name">Nama Team</string>
+    <string name="title_team_years">Tahun</string>
+    <string name="title_stadium_name">Nama Stadium</string>
+
+    <string name="title_weight">Berat (Kg)</string>
+    <string name="title_height">Tinggi (m)</string>
+
+    <string name="error_empty">No data available!</string>
+</resources>
